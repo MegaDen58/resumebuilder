@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ResumeBuilder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Language" Type="System.String" Scope="User">
+      <Value Profile="(Default)">en</Value>
+    </Setting>
+    <Setting Name="SavingFileOption" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="jobTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JOB</Value>
+    </Setting>
+    <Setting Name="educationTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EDUCATION</Value>
+    </Setting>
+    <Setting Name="certificationsTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CERTIFICATES</Value>
+    </Setting>
+    <Setting Name="personalProjectsTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PERSONAL PROJECTS</Value>
+    </Setting>
+    <Setting Name="languagesTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LANGUAGES</Value>
+    </Setting>
+    <Setting Name="interestsTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">INTERESTS</Value>
+    </Setting>
+    <Setting Name="skillsTitleLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SKILLS</Value>
+    </Setting>
+    <Setting Name="titleFontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">13</Value>
+    </Setting>
+    <Setting Name="detailFontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">11</Value>
+    </Setting>
+    <Setting Name="pictureSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
