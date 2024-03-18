@@ -13,23 +13,18 @@
   <li>Изменение размера шрифта и изображения</li>
 </ul>
 
-<h1>Usage</h1>
-Usage
-To use this project, follow these steps:
+<h1>Использование</h1>
+Чтобы использовать этот проект, выполните следующие действия:
 <ul>
-<li>Open the project in Visual Studio.</li>
-<li>Build and run the project.</li>
-<li>Fill in your personal details, job history, education, and more details.</li>
-<li>Upload your photo.</li>
-<li>Choose a resume layout and export your resume as a PDF or DOCX file.</li>
-<li>Import or export your resume data as a JSON file.</li>
-<li>View information about the developer and visit their Github profile.</li>
+<li>Откройте проект в Visual Studio.</li>
+<li>Создайте и запустите проект.</li>
+<li>Заполните свои личные данные, историю работы, образование и другие детали.</li>
+<li>Загрузите свою фотографию.</li>
+<li>Выберите макет резюме и экспортируйте его в формате PDF или DOCX.</li>
 </ul>
 
-<h1>Contributing</h1>
-This project is open for contributions. If you find any bugs or issues, please report them on the Github repository. You can also suggest new features or improvements.
 
-<h1>Built With</h1>
+<h1>Сделан с помощью</h1>
 <ul>
   <li>VISUAL STUDIO 2022</li>
   <li>SQL EXPRESS 2022</li>
