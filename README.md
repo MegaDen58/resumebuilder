@@ -33,6 +33,3 @@
   <li>SautinSoft Pdf Focus .NET Library</i>
   <li>Newtonsoft JSON.NET .NET Library</i>
 </ul>
-
-<h1>License</h1>
-Licensed under the GPL 3.0 license.
