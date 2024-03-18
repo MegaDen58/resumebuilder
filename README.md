@@ -4,15 +4,13 @@ It is built using C# and Windows Forms, and it uses a SQL Server database to sto
 ![alt text](https://repository-images.githubusercontent.com/576042902/37e60d01-004b-4d49-89be-d1189cf4b9c1)
 <h1>Features</h1>
 <ul>
-  <li>Save multiple Resumes for one person and edit anytime.</li>
-  <li>Save your resume using multiple layouts</li>
-  <li>Automatically saving</li>
-  <li>Import and Export your all created resumes</li>
-  <li>Print as Pdf or MS Word(docx) file</li>
-  <li>You can add; Name, Address, Phone Number, Email, Website, Social Media Links, Summary, Job informations, Education informations, Skills, Languages, Certifications and Photo to your resume.</li>
-  <li>Edit Titles for any language</li>
-  <li>Change Font and Picture Sizes</li>
-  <li>English and Turkish UI</li>
+  <li>Сохранять несколько резюме для одного человека и редактируйте их в любое время.</li>
+  <li>Сохранять несколько резюме layouts</li>
+  <li>Автоматическое сохранение</li>
+  <li>Импорт и экспорт готовы резюме</li>
+  <li>Сохранять в формате Pdf или MS Word (docx)</li>
+  <li>Вы можете добавить в свое резюме: имя, адрес, номер телефона, электронную почту, веб-сайт, ссылки на социальные сети, резюме, информацию о работе, образовании, навыках, языках, сертификатах и фотографию.</li>
+  <li>Изменение размера шрифта и изображения</li>
 </ul>
 
 <h1>Usage</h1>
