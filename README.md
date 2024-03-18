@@ -1,8 +1,8 @@
 # Resume Builder
-This project is a desktop application that allows users to create and manage their resumes.<br>
-It is built using C# and Windows Forms, and it uses a SQL Server database to store and retrieve data.<br>
+Этот проект представляет собой настольное приложение, которое позволяет пользователям создавать свои резюме и управлять ими.<br>
+Оно построено с использованием C# и Windows Forms и использует базу данных SQL Server для хранения и извлечения данных.<br>
 ![alt text](https://repository-images.githubusercontent.com/576042902/37e60d01-004b-4d49-89be-d1189cf4b9c1)
-<h1>Features</h1>
+<h1>Возможности</h1>
 <ul>
   <li>Сохранять несколько резюме для одного человека и редактируйте их в любое время.</li>
   <li>Сохранять несколько резюме layouts</li>
